@@ -1,0 +1,22 @@
+Here are some possible machine learning engineer interview questions. 
+
+1. What is machine learning?
+2. How is KNN different from k-means clustering?
+3. Why is Naive Bayes so 'naive'?
+4. How is True Positive Rate and Recall related? 
+5. What is the trade-off between bias and variance?
+6. Explain what a ROC curve is?
+7. Define precision and recall?
+8. What is the difference between covariance and correlation?
+9. What is Bayes Theorem?
+10. What's the difference between probability and likelihood?
+11. When is Ridge regression favorable over Lasso regression?
+12. What is convex hull?
+13. What's "kernel trick" and why is it useful?
+14. What Deep Learning is exactly?
+15. Which is more important to you - model accuracy, or model performance?
+16. What cross-validation technique would you use on a time series dataset?
+17. What's the difference between a generative and discriminative model?
+18. Where do you usually source data-sets?
+19. When should you use classification over regression?
+20. What are your favorite use cases of machine learning models?

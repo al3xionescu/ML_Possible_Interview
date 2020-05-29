@@ -20,3 +20,39 @@ Here are some possible machine learning engineer interview questions.
 18. Where do you usually source data-sets?
 19. When should you use classification over regression?
 20. What are your favorite use cases of machine learning models?
+
+R:
+1. In short machine learning is the study of computer algorithms that improve automatically through experience. 
+2. KNN is a supervised machine learning while K-means is an unsupervised machine learning. KNN is a classification or
+regression ML algorithm while K-means is a clustering ML algo. KNN is a lazy learner, K-means is an eager learner. An eager
+learner has a model fitting that means a training step but a lazy learner does not have a training phase.
+3. Naive Bayes (NB) is 'naive' because it makes assumption that features of a measurement are independent of each other.
+4. Recall = True Positive / (True Positive + False Negative)
+5. If our model is too simple and has very few parameters then it may have high bias and low variance. On the other hand if 
+our model has large number of parameters then it's going to have high variance and low bias. We need to find the right balance
+without underfitting and overfitting the data. 
+6. A ROC curve is a graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination
+threshold is varied. 
+7. Precision is the fraction of relevant instances among the retrieved instances, while recall is the fraction of the total
+amount of relevant instances that were actually retrieved.
+8. 
+9. 
+10. 
+11. By using either you insert some prior knowledge into the approach. With Ridge you are saying that all the features are 
+important, but that you want to avoid the importances blowing up. With LASSO you are saying that the target depends on only
+some small subsets of the inputs, but you do not know which ones. 
+12. The convex hull of a shape is the smallest convex set that contains it. 
+13. Kernel methods owe their name to the use of kernel functions, which enable them to operate in a high-dimensional feature
+space without computing the coordinates of the data in that space, but rather by simply computing the inner products between
+the images of all pairs of data in the feature space. This operation is often computationally cheaper and is called "kernel
+trick". 
+14. Deep Learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher 
+level features from the raw input.
+15. 
+16. 
+17. 
+18. Some well known data-sets sources are: Kaggle Datasets, Amazon Datasets, UCL Machine Learning Repository, Google's Datasets
+Search Engine, Microsoft Datasets.
+19. Regression: if your outcome of interest is a real or continous value; classification: if your outcome of interest is 
+discrete or categorical
+20.

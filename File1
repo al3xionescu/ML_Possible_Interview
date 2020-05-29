@@ -35,9 +35,11 @@ without underfitting and overfitting the data.
 threshold is varied. 
 7. Precision is the fraction of relevant instances among the retrieved instances, while recall is the fraction of the total
 amount of relevant instances that were actually retrieved.
-8. 
-9. 
-10. 
+8. Correlation is when the change in one item may result in the change in the another item. On the other hand, covariance is 
+when two items vary together. 
+9. Bayes' theorem describes the probability of an event, based on prior knowledge of conditions that might be related to the 
+event. P(A|B) = P(B|A)*P(A)/P(B)
+10. Probability refers to the occurrence of future events, while a likelihood refers to past events with known outcomes.
 11. By using either you insert some prior knowledge into the approach. With Ridge you are saying that all the features are 
 important, but that you want to avoid the importances blowing up. With LASSO you are saying that the target depends on only
 some small subsets of the inputs, but you do not know which ones. 
@@ -48,11 +50,15 @@ the images of all pairs of data in the feature space. This operation is often co
 trick". 
 14. Deep Learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher 
 level features from the raw input.
-15. 
+15. The best accuracy is 100% indicating that all the predictions are correct. For an imbalanced dataset, accuracy is not a 
+valid measure of model performance. For a dataset where the default rate is 5%, even if all the records are predicted as 0, 
+the model will still have an accuracy of 95%. Model performance is a better indicator than accuracy as accuracy does not 
+necessarily say how good the model is. 
 16. 
-17. 
+17. A generative algorithm models how the data was generated in order to categorize a signal. A discriminative algorithm does
+not care about how the data was generated, it simply categorizes a given signal.
 18. Some well known data-sets sources are: Kaggle Datasets, Amazon Datasets, UCL Machine Learning Repository, Google's Datasets
 Search Engine, Microsoft Datasets.
 19. Regression: if your outcome of interest is a real or continous value; classification: if your outcome of interest is 
 discrete or categorical
-20.
+20. Detecting Fake News, Face Authentication, Content Recommendation
